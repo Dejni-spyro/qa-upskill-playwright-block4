@@ -1,0 +1,12 @@
+node_modules
+.npm-cache
+dist
+.astro
+apps/api/data/*.db
+apps/api/data/*.db-*
+.DS_Store
+docs/bugs.md
+.env
+test-results/
+playwright-report/
+playwright/.auth/
